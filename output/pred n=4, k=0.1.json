@@ -1,0 +1,9 @@
+{
+    "conc integral": 2.5237499999999997,
+    "mean residence time": 0.642,
+    "Variance": 0.129,
+    "Tank in series model converstion": 0.277,
+    "Dispersion model converstion": 0.244,
+    "Ideal PFR model conversion": 0.267,
+    "Ideal CSTR model convertion": 0.205
+}
