@@ -1386,6 +1386,6 @@ E_3/8 = -3h⁵·f⁴(ξ)/80,  ξ ∈ [a,b]
 - **σ²:** Variance - measure of spread in residence time distribution
 
 ---
-
+**Repository:** https://github.com/Jimohmuktar/CRE-python
 **Last Updated:** 2026
 **Version:** 1.0
